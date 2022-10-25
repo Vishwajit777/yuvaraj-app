@@ -1,0 +1,20 @@
+.titleContainer{
+margin-bottom: 450px;
+}
+.title{
+    color: white;
+}
+.button{
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+    background: chartreuse;
+    text-align: center;
+    border: none;
+    color: white;
+}
+@media only screen and (min-width:768px) {
+    .titleContainer{
+        margin-bottom: 165px;
+        }
+}

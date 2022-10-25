@@ -1,0 +1,26 @@
+.finishContainer {
+    background: white;
+    display: flex;
+    padding: 20px;
+    width: 90%;
+    flex-direction: column;
+    justify-content: center;
+    color: aqua;
+
+}
+
+.greetings {
+    color: black;
+}
+
+.scoreInfo {
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    padding-bottom: 10px;
+}
+@media only screen and (min-width:768px) {
+    .finishContainer {
+        width: 400px;
+    }
+}

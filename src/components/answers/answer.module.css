@@ -1,0 +1,18 @@
+.button{
+    width: 330px;
+    height: 40px;
+    text-align: center;
+    background: skyblue;
+    color: white;
+    border:none;
+    border-radius: 15px;
+}
+.activeButton{
+    width: 330px;
+    height: 40px;
+    text-align: center;
+    background: purple;
+    color: white;
+    border:none;
+    border-radius: 15px;
+}
